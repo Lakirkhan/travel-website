@@ -12,6 +12,7 @@ venv/
 db.sqlite3
 /media/
 /staticfiles/
+my_project/debug.log
 
 # Node.js related (if using a frontend with Node.js)
 node_modules/
